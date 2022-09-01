@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Katrina Eaton
-- 👀 I’m interested in Java, Kotlin, and spending too much time playing video games
-- 🌱 I’m currently working on my Masters in CS at Mills College in Oakland, CA
+- 👀 I’m interested in Kotlin, bioinformatics, and spending too much time playing video games
+- 🌱 I’m currently working as a bioinformatician at UCSF in Oakland, CA
 - 📫 How to reach me: katrina.eaton at gmail dot com.
 
 <!--- - 💞️ I’m looking to collaborate on --->
