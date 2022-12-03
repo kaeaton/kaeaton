@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katrina Eaton
-- 👀 I’m interested in Kotlin, bioinformatics, and spending too much time playing video games
+- 👀 I’m interested in Kotlin, bioinformatics, electronics, and spending too much time playing video games
 - 🌱 I’m currently working as a bioinformatician at UCSF in Oakland, CA
 - 📫 How to reach me: katrina.eaton at gmail dot com.
 
